@@ -1,10 +1,16 @@
 # Negeer alles in de projectmap ...
 /*
 
-# ... behalve dit bestand en de twee mappen
+# ... behalve deze bestanden en mappen
 !/.gitignore
+!/README.md
 !/data/
 !/R/
+
+# Van output alleen de figuren
+!/output/
+/output/*
+!/output/figures/
 
 # Binnen die mappen niet meenemen
 .Rhistory
