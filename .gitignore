@@ -1,0 +1,13 @@
+# Negeer alles in de projectmap ...
+/*
+
+# ... behalve dit bestand en de twee mappen
+!/.gitignore
+!/data/
+!/R/
+
+# Binnen die mappen niet meenemen
+.Rhistory
+.RData
+*.rds
+~$*
