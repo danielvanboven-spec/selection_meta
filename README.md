@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Correlational selection and the structure of the fitness landscape
 
 Analysis pipeline for a systematic review and meta-analysis of non-linear
