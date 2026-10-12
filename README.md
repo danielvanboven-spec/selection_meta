@@ -73,10 +73,8 @@ selection_meta/
 │   ├── Masterdata.xlsx
 │   ├── raw_studies/           the ten raw-data study files
 │   └── photos/                Genus_species.jpg for Figure 1
-├── output/
-│   ├── figures/  tables/  models/  sessionInfo.txt
-└── archive/
-    └── the removed scripts, with a note on why each went
+└── output/
+   └─── figures/  tables/  models/  sessionInfo.txt
 ```
 
 ---
