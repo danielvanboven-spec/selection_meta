@@ -6,11 +6,6 @@
 # Manuscript sections served:
 #   Methods > Data extraction
 #   Methods > Effect size calculation (the |gamma| <= 2 exclusion)
-#
-# Exclusion chain, and the counts each step should give:
-#   Masterdata.xlsx                          1,709 rows (1,681 with an ID)
-#   drop ID 8 (implausible gradients)        1,660 rows, 72 studies
-#   drop rows with |gamma_ii| or |gamma_ij| > 2
 # ======================================================================
 
 
